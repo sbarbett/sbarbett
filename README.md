@@ -5,7 +5,7 @@ I'm a technologist and sysadmin. Here are some of my interests.
 ## scripting
 ![python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+![javascript](https://img.shields.io/badge/-JavaScript-CB9800?style=flat-square&logo=javascript&logoColor=white)
 
 ## software I like
 ![docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
