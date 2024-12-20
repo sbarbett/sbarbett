@@ -10,9 +10,9 @@ I'm a technologist and sysadmin. Here are some of my interests.
 ## software I like
 ![docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![truenas](https://img.shields.io/badge/-TrueNAS-0095D5?style=flat-square&logo=truenas&logoColor=white)
 ![jellyfin](https://img.shields.io/badge/-Jellyfin-00A4DC?style=flat-square&logo=jellyfin&logoColor=white)
 ![discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
+![truenas](https://img.shields.io/badge/-TrueNAS-0095D5?style=flat-square&logo=truenas&logoColor=white)
 
 ## operating systems
 ![debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
