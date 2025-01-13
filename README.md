@@ -2,10 +2,12 @@
 
 I'm a technologist and sysadmin. Here are some of my interests.
 
-## scripting
+## scripting & frameworks
 ![python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![javascript](https://img.shields.io/badge/-JavaScript-CB9800?style=flat-square&logo=javascript&logoColor=white)
+![node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![react](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ## software I like
 ![docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -15,6 +17,7 @@ I'm a technologist and sysadmin. Here are some of my interests.
 ![truenas](https://img.shields.io/badge/-TrueNAS-0095D5?style=flat-square&logo=truenas&logoColor=white)
 
 ## operating systems
+![arch](https://img.shields.io/badge/-Arch-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![openwrt](https://img.shields.io/badge/-OpenWRT-00B5E2?style=flat-square&logo=openwrt&logoColor=white)
 
